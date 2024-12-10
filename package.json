@@ -1,7 +1,7 @@
 {
   "name": "UsePopcorn",
   "version": "0.1.0",
-  "homepage": "https://kiyarad.github.io/MovieHunter",
+  "homepage": "https://movie-hunter-inky.vercel.app",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
