@@ -1,5 +1,7 @@
 # MovieHunter - Movie and Series Exploration App
 
+[Live Demo](https://movie-hunter-inky.vercel.app/) - Try the app and!
+
 ## Description
 
 MovieHunter is a React-based application that provides users with a seamless way to explore movies and series. It allows users to search for titles and view detailed information such as posters, names, release dates, durations, genres, IMDb ratings, summaries, actors, and directors. Users can rate movies and add them to a personal watchlist while tracking stats like the number of movies watched and calculating averages for IMDb ratings, personal ratings, and movie durations.
